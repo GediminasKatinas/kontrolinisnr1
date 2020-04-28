@@ -1,0 +1,27 @@
+article{
+    background-color:green;
+    
+
+}
+header {
+    color: #4DC1E6; 
+    background-color: #47099E;
+    text-align:center;
+    margin-bottom:-10px;
+}
+nav{
+    color: #B743C0; 
+    background-color: #E43957;
+
+}
+article{
+    text-align:left;
+    color: #F9F53D; 
+    background-color: #1F44D5;
+}
+footer{
+    text-align:right;
+    color: #3AC5A5; 
+    background-color: #15C458;
+    margin-top:-16px;
+}
